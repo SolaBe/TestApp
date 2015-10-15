@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="new_product">New</string>
+    <string name="stock">Stock %1$d</string>
+    <string name="price">Price %1$.2f</string>
+    <string name="rate">Rate %1$.2f</string>
+</resources>
